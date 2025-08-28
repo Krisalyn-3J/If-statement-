@@ -1,10 +1,9 @@
 <?php
 
-$t = time ("T");
-if ( $t < "10") {
-    echo "Have a good day!";
+if (7>3) {
+    echo "Welcome to php!";
     
-} else {
-    echo " Have a goodnight!";
 }
+?>
+
 
